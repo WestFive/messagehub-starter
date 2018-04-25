@@ -1,0 +1,13 @@
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\MessageClient.deps.json
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\MessageClient.runtimeconfig.json
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\MessageClient.runtimeconfig.dev.json
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\MessageClient.dll
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.csprojResolveAssemblyReference.cache
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.csproj.CoreCompileInputs.cache
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.AssemblyInfoInputs.cache
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.AssemblyInfo.cs
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\MessageClient.pdb
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.dll
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\obj\Debug\netcoreapp2.0\MessageClient.pdb
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\DAL.dll
+D:\项目代码\MessgaehubRepo\MessageHubCore\MessageClient\bin\Debug\netcoreapp2.0\DAL.pdb
